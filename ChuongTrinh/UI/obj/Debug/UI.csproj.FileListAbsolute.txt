@@ -1,0 +1,1435 @@
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\UI\bin\Debug\UI.exe.config
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\UI\bin\Debug\UI.exe
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\UI\bin\Debug\UI.pdb
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\UI\obj\Debug\UI.exe
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\UI\bin\Debug\BLL.dll
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\UI\bin\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\UI\bin\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\UI\bin\Debug\BLL.pdb
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\UI\bin\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\UI\bin\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmThemKhachHang.resources
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmTimLinhKien.resources
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmTimXe.resources
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\UI\bin\Debug\UI.exe.config
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.exe
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.pdb
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\UI\bin\Debug\UI.exe
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\UI\bin\Debug\UI.pdb
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\UI\bin\Debug\BLL.dll
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\UI\bin\Debug\Entities.dll
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\UI\bin\Debug\DAL.dll
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\UI\bin\Debug\BLL.pdb
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\UI\bin\Debug\Entities.pdb
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\UI\bin\Debug\DAL.pdb
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmChinh.resources
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmThemKhachHang.resources
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmTimLinhKien.resources
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmTimXe.resources
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\TRUNGHT\Desktop\CapNhatPTUD\QuanLiCuaHangBanXe\UI\bin\Debug\UI.exe.config
+C:\Users\TRUNGHT\Desktop\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\CapNhatPTUD\QuanLiCuaHangBanXe\UI\bin\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\CapNhatPTUD\QuanLiCuaHangBanXe\UI\bin\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\CapNhatPTUD\QuanLiCuaHangBanXe\UI\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\CapNhatPTUD\QuanLiCuaHangBanXe\UI\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\CapNhatPTUD\QuanLiCuaHangBanXe\UI\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\CapNhatPTUD\QuanLiCuaHangBanXe\UI\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\CapNhatPTUD\QuanLiCuaHangBanXe\UI\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\CapNhatPTUD\QuanLiCuaHangBanXe\UI\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmChinh.resources
+C:\Users\TRUNGHT\Desktop\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\TRUNGHT\Desktop\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\TRUNGHT\Desktop\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\TRUNGHT\Desktop\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\TRUNGHT\Desktop\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\TRUNGHT\Desktop\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\TRUNGHT\Desktop\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\TRUNGHT\Desktop\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmThemKhachHang.resources
+C:\Users\TRUNGHT\Desktop\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\TRUNGHT\Desktop\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmTimLinhKien.resources
+C:\Users\TRUNGHT\Desktop\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmTimXe.resources
+C:\Users\TRUNGHT\Desktop\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+C:\Users\TRUNGHT\Desktop\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\TRUNGHT\Desktop\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\TRUNGHT\Desktop\CapNhatPTUD\QuanLiCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\UI\bin\Debug\UI.exe.config
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\UI\obj\Debug\UI.exe
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\UI\bin\Debug\UI.exe
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\UI\bin\Debug\UI.pdb
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\UI\bin\Debug\BLL.dll
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\UI\bin\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\UI\bin\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\UI\bin\Debug\BLL.pdb
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\UI\bin\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\UI\bin\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmChinh.resources
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmThemKhachHang.resources
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmTimLinhKien.resources
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmTimXe.resources
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThemKhachHang.resources
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimLinhKien.resources
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimXe.resources
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThemKhachHang.resources
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimLinhKien.resources
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimXe.resources
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThemKhachHang.resources
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimLinhKien.resources
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimXe.resources
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThemKhachHang.resources
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimLinhKien.resources
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimXe.resources
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+F:\Nam3 - Copy\2-10-11h17LeThanhKy\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+F:\Nam3 - Copy\2-10-11h17LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+F:\Nam3 - Copy\2-10-11h17LeThanhKy\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimLinhKien.resources
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimXe.resources
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimLinhKien.resources
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimXe.resources
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimLinhKien.resources
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimXe.resources
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp1.resources
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimLinhKien.resources
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp1.resources
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimLinhKien.resources
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp.resources
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp.resources
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp.resources
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp.resources
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp.resources
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+F:\14-10-3h35QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+F:\14-10-3h35QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+F:\14-10-3h35QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+F:\14-10-3h35QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+F:\14-10-3h35QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+F:\14-10-3h35QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+F:\14-10-3h35QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+F:\14-10-3h35QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+F:\14-10-3h35QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+F:\14-10-3h35QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+F:\14-10-3h35QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+F:\14-10-3h35QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+F:\14-10-3h35QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+F:\14-10-3h35QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+F:\14-10-3h35QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+F:\14-10-3h35QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+F:\14-10-3h35QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+F:\14-10-3h35QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+F:\14-10-3h35QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+F:\14-10-3h35QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+F:\14-10-3h35QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+F:\14-10-3h35QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+F:\14-10-3h35QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+F:\14-10-3h35QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+F:\14-10-3h35QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+F:\14-10-3h35QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp.resources
+F:\14-10-3h35QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp.resources
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp.resources
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp.resources
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThemKhachHang.resources
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThemKhachHang.resources
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp.resources
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThemKhachHang.resources
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp.resources
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmMenu.resources
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmMenu.resources
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThemKhachHang.resources
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp.resources
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmMenu.resources
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThemKhachHang.resources
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp.resources
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\TRUNGHT\Desktop\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+C:\Users\TRUNGHT\Desktop\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmMenu.resources
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThemKhachHang.resources
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp.resources
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmMenu.resources
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThemKhachHang.resources
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp.resources
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\17-10-11hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+C:\Users\Student\Desktop\17-10-11hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+C:\Users\Student\Desktop\17-10-11hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmMenu.resources
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThemKhachHang.resources
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp.resources
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmMenu.resources
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThemKhachHang.resources
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp.resources
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmMenu.resources
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThemKhachHang.resources
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp.resources
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmXemttNV.resources
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmLoading.resources
+F:\Nam3 - Copy\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+F:\Nam3 - Copy\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+F:\Nam3 - Copy\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmLoading.resources
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmMenu.resources
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThemKhachHang.resources
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmXemttNV.resources
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp.resources
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmLoading.resources
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmMenu.resources
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThemKhachHang.resources
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmXemttNV.resources
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp.resources
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmLoading.resources
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmMenu.resources
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThemKhachHang.resources
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmXemttNV.resources
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp.resources
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmLoading.resources
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmMenu.resources
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThemKhachHang.resources
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmXemttNV.resources
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp.resources
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.XDialog.MsgBox.resources
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmLoading.resources
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmMenu.resources
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThemKhachHang.resources
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmXemttNV.resources
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp.resources
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.XDialog.MsgBox.resources
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmLoading.resources
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmMenu.resources
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThemKhachHang.resources
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmXemttNV.resources
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp.resources
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.XDialog.MsgBox.resources
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmLoading.resources
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmMenu.resources
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThemKhachHang.resources
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmXemttNV.resources
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp.resources
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.XDialog.MsgBox.resources
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmLoading.resources
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmMenu.resources
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThemKhachHang.resources
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmXemttNV.resources
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp.resources
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.XDialog.MsgBox.resources
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmLoading.resources
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmMenu.resources
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThemKhachHang.resources
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmXemttNV.resources
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp.resources
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.XDialog.MsgBox.resources
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmLoading.resources
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmMenu.resources
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThemKhachHang.resources
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmXemttNV.resources
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp.resources
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.XDialog.MsgBox.resources
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmLoading.resources
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmMenu.resources
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThemKhachHang.resources
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmXemttNV.resources
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp.resources
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.XDialog.MsgBox.resources
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmLoading.resources
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmMenu.resources
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThemKhachHang.resources
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmXemttNV.resources
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp.resources
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.XDialog.MsgBox.resources
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmLoading.resources
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmMenu.resources
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThemKhachHang.resources
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmXemttNV.resources
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp.resources
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.XDialog.MsgBox.resources
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmLoading.resources
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmMenu.resources
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThemKhachHang.resources
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmXemttNV.resources
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp.resources
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.XDialog.MsgBox.resources
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe.config
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmLoading.resources
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmMenu.resources
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThemKhachHang.resources
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmThongKe.resources
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTTTraGop.resources
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmXemttNV.resources
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.temp.resources
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.XDialog.MsgBox.resources
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\PTUD_DHKTPM12A_DOAN_NHOM04\UI\bin\Debug\UI.exe.config
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\bin\Debug\UI.exe.config
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\bin\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\bin\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.frmLoading.resources
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.frmMenu.resources
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.frmThemKhachHang.resources
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.frmThongKe.resources
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.frmTTTraGop.resources
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.frmXemttNV.resources
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.temp.resources
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.XDialog.MsgBox.resources
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\bin\Debug\UI.exe.config
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.exe
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.pdb
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\bin\Debug\UI.exe
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\bin\Debug\UI.pdb
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\bin\Debug\BLL.dll
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\bin\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\bin\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\bin\Debug\BLL.pdb
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\bin\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\bin\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.frmLoading.resources
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.frmMenu.resources
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.frmThemKhachHang.resources
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.frmThongKe.resources
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.frmTTTraGop.resources
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.frmXemttNV.resources
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.temp.resources
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.XDialog.MsgBox.resources
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\TRUNGHT\Desktop\PTUD_DHKTPM12A_DOAN_NHOM04\ChuongTrinh\UI\bin\Debug\UI.exe.config
+C:\Users\TRUNGHT\Desktop\PTUD_DHKTPM12A_DOAN_NHOM04\ChuongTrinh\UI\bin\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\PTUD_DHKTPM12A_DOAN_NHOM04\ChuongTrinh\UI\bin\Debug\UI.pdb
+C:\Users\TRUNGHT\Desktop\PTUD_DHKTPM12A_DOAN_NHOM04\ChuongTrinh\UI\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\PTUD_DHKTPM12A_DOAN_NHOM04\ChuongTrinh\UI\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\PTUD_DHKTPM12A_DOAN_NHOM04\ChuongTrinh\UI\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\PTUD_DHKTPM12A_DOAN_NHOM04\ChuongTrinh\UI\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\PTUD_DHKTPM12A_DOAN_NHOM04\ChuongTrinh\UI\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\PTUD_DHKTPM12A_DOAN_NHOM04\ChuongTrinh\UI\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\PTUD_DHKTPM12A_DOAN_NHOM04\ChuongTrinh\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\PTUD_DHKTPM12A_DOAN_NHOM04\ChuongTrinh\UI\obj\Debug\UI.frmDangKy.resources
+C:\Users\TRUNGHT\Desktop\PTUD_DHKTPM12A_DOAN_NHOM04\ChuongTrinh\UI\obj\Debug\UI.frmDangNhap.resources
+C:\Users\TRUNGHT\Desktop\PTUD_DHKTPM12A_DOAN_NHOM04\ChuongTrinh\UI\obj\Debug\UI.frmHoaDon.resources
+C:\Users\TRUNGHT\Desktop\PTUD_DHKTPM12A_DOAN_NHOM04\ChuongTrinh\UI\obj\Debug\UI.frmHopDong.resources
+C:\Users\TRUNGHT\Desktop\PTUD_DHKTPM12A_DOAN_NHOM04\ChuongTrinh\UI\obj\Debug\UI.frmLoading.resources
+C:\Users\TRUNGHT\Desktop\PTUD_DHKTPM12A_DOAN_NHOM04\ChuongTrinh\UI\obj\Debug\UI.frmMenu.resources
+C:\Users\TRUNGHT\Desktop\PTUD_DHKTPM12A_DOAN_NHOM04\ChuongTrinh\UI\obj\Debug\UI.frmPhieuSua.resources
+C:\Users\TRUNGHT\Desktop\PTUD_DHKTPM12A_DOAN_NHOM04\ChuongTrinh\UI\obj\Debug\UI.frmQuanLyKhachHang.resources
+C:\Users\TRUNGHT\Desktop\PTUD_DHKTPM12A_DOAN_NHOM04\ChuongTrinh\UI\obj\Debug\UI.frmQuanLyNhanVien.resources
+C:\Users\TRUNGHT\Desktop\PTUD_DHKTPM12A_DOAN_NHOM04\ChuongTrinh\UI\obj\Debug\UI.frmQuanLyXe.resources
+C:\Users\TRUNGHT\Desktop\PTUD_DHKTPM12A_DOAN_NHOM04\ChuongTrinh\UI\obj\Debug\UI.frmThemKhachHang.resources
+C:\Users\TRUNGHT\Desktop\PTUD_DHKTPM12A_DOAN_NHOM04\ChuongTrinh\UI\obj\Debug\UI.frmThongKe.resources
+C:\Users\TRUNGHT\Desktop\PTUD_DHKTPM12A_DOAN_NHOM04\ChuongTrinh\UI\obj\Debug\UI.frmTimHopDong.resources
+C:\Users\TRUNGHT\Desktop\PTUD_DHKTPM12A_DOAN_NHOM04\ChuongTrinh\UI\obj\Debug\UI.frmTTTraGop.resources
+C:\Users\TRUNGHT\Desktop\PTUD_DHKTPM12A_DOAN_NHOM04\ChuongTrinh\UI\obj\Debug\UI.frmXemttNV.resources
+C:\Users\TRUNGHT\Desktop\PTUD_DHKTPM12A_DOAN_NHOM04\ChuongTrinh\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\TRUNGHT\Desktop\PTUD_DHKTPM12A_DOAN_NHOM04\ChuongTrinh\UI\obj\Debug\UI.frmTrangChu.resources
+C:\Users\TRUNGHT\Desktop\PTUD_DHKTPM12A_DOAN_NHOM04\ChuongTrinh\UI\obj\Debug\UI.temp.resources
+C:\Users\TRUNGHT\Desktop\PTUD_DHKTPM12A_DOAN_NHOM04\ChuongTrinh\UI\obj\Debug\UI.XDialog.MsgBox.resources
+C:\Users\TRUNGHT\Desktop\PTUD_DHKTPM12A_DOAN_NHOM04\ChuongTrinh\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\TRUNGHT\Desktop\PTUD_DHKTPM12A_DOAN_NHOM04\ChuongTrinh\UI\obj\Debug\UI.exe
+C:\Users\TRUNGHT\Desktop\PTUD_DHKTPM12A_DOAN_NHOM04\ChuongTrinh\UI\obj\Debug\UI.pdb

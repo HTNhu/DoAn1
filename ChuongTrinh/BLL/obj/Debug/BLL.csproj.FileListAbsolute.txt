@@ -1,0 +1,405 @@
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\BLL\bin\Debug\BLL.dll
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\BLL\obj\Debug\BLL.dll
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\BLL\bin\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\BLL\bin\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\BLL\bin\Debug\BLL.dll
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\BLL\bin\Debug\DAL.dll
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\BLL\bin\Debug\Entities.dll
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\BLL\obj\Debug\BLL.dll
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\BLL\bin\Debug\BLL.dll
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\BLL\bin\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\BLL\bin\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\BLL\obj\Debug\BLL.dll
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\3-10-23h26HOTNHU\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\27-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\BLL\obj\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\BLL\bin\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\BLL\bin\Debug\BLL.pdb
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\BLL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\BLL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\BLL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\BLL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\BLL\obj\Debug\BLL.dll
+C:\Users\TRUNGHT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\BLL\obj\Debug\BLL.pdb
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\BLL\bin\Debug\BLL.dll
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\BLL\bin\Debug\BLL.pdb
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\BLL\bin\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\BLL\bin\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\BLL\bin\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\BLL\bin\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\BLL\obj\Debug\BLL.dll
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\BLL\obj\Debug\BLL.pdb

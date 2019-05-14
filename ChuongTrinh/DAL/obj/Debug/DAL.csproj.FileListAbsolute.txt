@@ -1,0 +1,378 @@
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\DAL\bin\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\DAL\obj\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\DAL\bin\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\DAL\bin\Debug\DAL.dll
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\DAL\bin\Debug\Entities.dll
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\DAL\obj\Debug\DAL.dll
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\DAL\bin\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\DAL\bin\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\DAL\obj\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+E:\Nam3 - Copy\2-10-9h32LeThanhKy\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+F:\9-10-2hKyThanh\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+F:\13-10-7h30QLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\14-10-22hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\15-10-2hQLCHXM\14-10-10h45QLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+F:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+F:\16-10-4hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\17-10-4hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\18-10-2hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\25-10-1h15QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+D:\DownloadfromWeb\25-10-11h45QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+F:\Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+F:\ \Nam3 - Copy\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll.config
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\DAL.pdb
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\System.Data.Linq.dll
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.dll
+C:\Users\TRUNGHT\Desktop\26-10-10h43PMQLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\DAL\obj\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\DAL\bin\Debug\DAL.dll.config
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\DAL\bin\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\DAL\bin\Debug\DAL.pdb
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\DAL\bin\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\DAL\bin\Debug\System.Data.Linq.dll
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\DAL\bin\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\DAL\obj\Debug\DAL.dll
+C:\Users\NHUU HT\Desktop\CHUONGTRINH\PTUD_DHKTPM12A_DOAN_NHOM04\DAL\obj\Debug\DAL.pdb

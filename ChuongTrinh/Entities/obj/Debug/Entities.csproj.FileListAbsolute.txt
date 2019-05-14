@@ -1,0 +1,101 @@
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\Entities\bin\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\Entities\bin\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\Entities\obj\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\Entities\obj\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\Project.Net\QuanLiCuaHangBanXe\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\Entities\obj\Debug\Entities.dll
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\Entities\obj\Debug\Entities.pdb
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\Entities\bin\Debug\Entities.dll
+F:\Nam3 - Copy\CapNhatPTUD\QuanLiCuaHangBanXe\Entities\bin\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\Entities\bin\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\Entities\bin\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\Entities\obj\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\QuanLiCuaHangBanXe\QuanLiCuaHangBanXe\Entities\obj\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.pdb
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.dll
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.pdb
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.dll
+E:\Nam3 - Copy\1-10-9h45LeThanhKy\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\2-10-5hHOTNHU\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\3-10-19h26HOTNHU\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\4-10-4h48HOTNHU\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\-10-11h48KyNhu\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\9-10-2hKyThanh\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\10-10-11h30QLCHXM\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.pdb
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.dll
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.pdb
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.dll
+E:\16-10-23h30hQLCHXM\15-10-23h30hQLCHXM\15-10-23h30hQLCHXM\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.pdb
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.dll
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.pdb
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.dll
+T:\17-10-11hQLCHXM\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.pdb
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.dll
+C:\Users\NHUU HT\Desktop\17-10-17hQLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\18-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\20-10-23h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.pdb
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.dll
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.pdb
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.dll
+C:\Users\Student\Desktop\20-10-2h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.pdb
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.dll
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.pdb
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.dll
+C:\Users\Student\Desktop\23-10-11h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.pdb
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.dll
+C:\Users\TRUNGHT\Desktop\24-10-7h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.pdb
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.dll
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\bin\Debug\Entities.pdb
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.dll
+C:\Users\Student\Desktop\PTUDFile\25-10-2h54QLCHXM\25-10-1h15QLCHXM\17-10-17hQLCHXM\QuanLyCuaHangBanXe\Entities\obj\Debug\Entities.pdb
